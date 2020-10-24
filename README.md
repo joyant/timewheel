@@ -150,7 +150,7 @@ func main () {
 
 也可以删除任务和停止任务。
 
-```
+```golang
 tw.DelTask("task1")
 tw.Stop()
 ```
